@@ -1,16 +1,17 @@
-## Hi there 👋
+# HELLO EVERYONE!
 
-<!--
-**Toru45/Toru45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student focusing on DevOps and Cloud, Currently learning security!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# MY STACK
+### CLOUD
+[![Cloud Stack](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+### DevOps, Networking, and Infrastructure
+[![Networking and Infrastructure](https://skillicons.dev/icons?i=cloudflare,githubactions,grafana,jenkins,kubernetes,linux,mint,nginx,terraform)](https://skillicons.dev)
+### Web Development
+[![Web Development](https://skillicons.dev/icons?i=babel,css,express,html,jest,react,vite,webpack,webstorm)](https://skillicons.dev)
+### Database
+[![Database](https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch)](https://skillicons.dev)
+### Programming Language
+[![Programming Languange](https://skillicons.dev/icons?i=js,ts,go)](https://skillicons.dev)
+### Message Broker
+[![ Message Broker](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
