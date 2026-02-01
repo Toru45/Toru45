@@ -1,6 +1,6 @@
 # HELLO EVERYONE!
 
-I'm a student focusing on DevOps and Cloud, Currently learning security!
+I'm Graduated Student who focus on DevOps and Infrastructure
 
 # MY STACK
 ### CLOUD
